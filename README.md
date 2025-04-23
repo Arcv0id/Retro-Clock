@@ -1,6 +1,6 @@
 # Retro Clock
 
-**Retro Clock** é uma aplicação de relógio digital com um design inspirado no **Game Boy Color**. Ele exibe a hora atual em um formato de 24 horas (HH:MM:SS) em um estilo retrô, utilizando o módulo `tkinter` do Python para criar uma interface gráfica simples e agradável. A aplicação simula a aparência do icônico console portátil, com botões decorativos para um toque extra de nostalgia.
+**Retro Clock** é uma aplicação de relógio digital com um design inspirado no **Game Boy Color**. Ele exibe a hora atual em um formato de 24 horas (HH:MM:SS) em um estilo retrô, utilizando o módulo `tkinter` do Python para criar uma interface gráfica simples e agradável. A aplicação simula a aparência do icônico console portátil.
 
 ## Funcionalidades
 
