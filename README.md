@@ -6,8 +6,6 @@
 
 - Exibição da hora em tempo real, atualizada a cada segundo.
 - Layout inspirado no **Game Boy Color**, com cores e estilo retrô.
-- Botões decorativos (A, B, Start, Select) para um visual autêntico de console.
-- Simples e fácil de usar.
 
 ## Tecnologias Usadas
 
